@@ -1,7 +1,7 @@
 {
   "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://files.catbox.moe/6zd0ru.jpg",
+  "description": "Javascript WhatsApp bot made by 𝑺 𝑴𝒖𝒔𝒊𝒄 𝑷𝒖𝒓𝒖𝒍𝒊𝒂",
+  "logo": "https://files.catbox.moe/99095i.png",
   "keywords": ["KHAN-MD"],
   "success_url": "/",
   "stack": "container",
@@ -19,7 +19,7 @@
     "BOT_NAME": {
       "description": "Your bot name (Default: KHAN-MD)",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "♛ 𝕽𝕬𝕸-𝕸𝕯 ♛"
     },
     "MODE": {
       "description": "Bot mode: public/private/inbox/groups (Default: private)",
@@ -29,12 +29,12 @@
     "OWNER_NUMBER": {
       "description": "Owner WhatsApp number without + (Default: 92342*******)",
       "required": false,
-      "value": "92342*******"
+      "value": "918927384393"
     },
     "OWNER_NAME": {
       "description": "Owner name (Default: Jᴀᴡᴀᴅ TᴇᴄʜX)",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "『👑』𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝑺 𝑴𝒖𝒔𝒊𝒄 𝑷𝒖𝒓𝒖𝒍𝒊𝒂『👑』"
     },
     "HEROKU_API_KEY": {
       "description": "Heroku API key if deploying on heroku",
@@ -164,7 +164,7 @@
     "BOT_MEDIA_URL": {
       "description": "Bot media URL",
       "required": false,
-      "value": "https://files.catbox.moe/6zd0ru.jpg"
+      "value": "https://files.catbox.moe/9a13ua.png"
     },
     "AUTO_DOWNLOADER": {
       "description": "Auto downloader: true/false (Default: false)",
@@ -179,7 +179,7 @@
     "DESCRIPTION": {
       "description": "Bot description",
       "required": false,
-      "value": "*© Powered by Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*『👑』𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝑺 𝑴𝒖𝒔𝒊𝒄 𝑷𝒖𝒓𝒖𝒍𝒊𝒂『👑』*"
     }
   },
   "buildpacks": [
